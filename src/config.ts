@@ -89,10 +89,10 @@ export const themeConfig: ThemeConfig = {
     verification: {
       // google search console
       // https://search.google.com/search-console
-      google: '',
+      google: 'iL0T-NNBDdFkNeXaNFE4rvh7a4jOrqSYQvxMCVhmn5o',
       // bing webmaster tools
       // https://www.bing.com/webmasters
-      bing: '',
+      bing: 'D26029C55ADFF4CA57978EF9CE214266',
       // yandex webmaster
       // https://webmaster.yandex.com
       yandex: '',
